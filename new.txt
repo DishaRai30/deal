@@ -1,3 +1,4 @@
 git new
 branching
 stashing
+cherry-pick
